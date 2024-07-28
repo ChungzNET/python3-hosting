@@ -1,3 +1,3 @@
 clear
-echo "Welcome To Python3 Hosting by ExodusCloud"
+echo "Welcome To NodeJS Hosting by ExodusCloud"
 bash
